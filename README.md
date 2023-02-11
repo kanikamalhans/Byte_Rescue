@@ -1,4 +1,6 @@
 # Byte_Rescue
+![logo](https://user-images.githubusercontent.com/91647703/218274286-cb7824ec-1452-4e98-a98c-90ca5ea50bcc.png)
+
 ![Green Playful Illustrated Healthy Food Presentation](https://user-images.githubusercontent.com/91647703/218274239-836c3fd5-b3f7-4da3-bfca-df62e797309b.jpg)
 
 "A sustainable solution to the dual problem of food waste and hunger, by linking surplus food from food establishments with local organizations serving those in need."
